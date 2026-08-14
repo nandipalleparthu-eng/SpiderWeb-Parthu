@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ SPIDER WEB — PART 2
+# 🕷️ SPIDER WEB — PARTHU
 
 ### An Interactive Developer Portfolio Experience
 
